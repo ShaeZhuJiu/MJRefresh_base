@@ -1,0 +1,5 @@
+platform :ios, '7.0' #手机的系统
+target '下拉刷新和上拉加载' do #工程名字
+     pod 'MJRefresh' 
+    # pod 'AMap3DMap'
+end
